@@ -1,0 +1,9 @@
+name: basic_service
+version: 0.1.0
+
+authors:
+  - Andrei Makarenko <andrei.makarenko.1998@gmail.com>
+
+crystal: 1.8.2
+
+license: MIT
